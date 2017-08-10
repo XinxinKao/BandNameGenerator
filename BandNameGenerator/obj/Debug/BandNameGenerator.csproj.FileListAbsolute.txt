@@ -1,0 +1,7 @@
+C:\Users\xinyi.kao95\Desktop\github\BandNameGenerator\BandNameGenerator\bin\Debug\BandNameGenerator.dll
+C:\Users\xinyi.kao95\Desktop\github\BandNameGenerator\BandNameGenerator\bin\Debug\BandNameGenerator.pdb
+C:\Users\xinyi.kao95\Desktop\github\BandNameGenerator\BandNameGenerator\bin\Debug\nunit.framework.dll
+C:\Users\xinyi.kao95\Desktop\github\BandNameGenerator\BandNameGenerator\bin\Debug\nunit.framework.xml
+C:\Users\xinyi.kao95\Desktop\github\BandNameGenerator\BandNameGenerator\obj\Debug\BandNameGenerator.dll
+C:\Users\xinyi.kao95\Desktop\github\BandNameGenerator\BandNameGenerator\obj\Debug\BandNameGenerator.pdb
+C:\Users\xinyi.kao95\Desktop\github\BandNameGenerator\BandNameGenerator\obj\Debug\BandNameGenerator.csprojResolveAssemblyReference.cache
